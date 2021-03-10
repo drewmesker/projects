@@ -1,0 +1,40 @@
+character|mustard
+character|scarlett
+character|white
+character|plum
+character|peacock
+character|green
+places|kitchen
+places|hall
+places|ballroom
+places|conservatory
+places|dining
+places|cellar
+places|billiards
+places|library
+places|lounge
+places|study
+objects|wrench
+objects|candlestick
+objects|leadpipe
+objects|revolver
+objects|rope
+objects|knife
+pd|The kitchen is where all the magic happens at the Manor. The kitchen hosts 5 employees who all have alibi's the night of the murder.
+pd|The hall is where the employee quarters are located. The employees enjoy drinking tea and eating crumpets here.
+pd|The ballroom is the main attraction of the Manor. Guests spend most of their time at night here.
+pd|The conservatory is the greenhouse of the Manor. Many rare species of vegetation are grown here.
+pd|The dining room is where Dr. Black and his family are served their dinner. They typically indulge in caviar and other expensive food items.
+pd|The cellar is where the fine liquor is stored for many years. Dr. Black loved to make his own Gin in his spare time.
+pd|The billiards room is where Dr. Black's children spend most of their time.
+pd|The library is where many of the classic novels of the Scientific Revolution are stored. Many government officials come to read these articles.
+pd|The lounge is a common area where many guests and employees take their time off. Mustard spends most of his days here.
+pd|The study is where many of the folks of Birmingham read scientific journals. Professor Plum loves to hang out here, in particular.
+
+
+quotes|Mustard: "I'm afraid I do not know where I was on the night Dr. Black was killed. I had too much Gin and was chasing around Scarlett all night."
+quotes|Scarlett: "That was a wild night. I could not get Mustard off of me. Ugh!"
+quotes|White: "I stayed home that night. I can never get out too late anymore."
+quotes|Plum: "I read 3 books that night. Something did feel off though.."
+quotes|Peacock: "I heard the murderer used a weapon found here. That's so bizarre."
+quotes|Green| "It's a damn shame Dr. Black was killed. I wonder what will his family do."
