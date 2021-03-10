@@ -1,0 +1,34 @@
+
+help - gives info regarding the game
+guess - make an inference on the murderer and with what weapon the murderer used
+current - tells you your current location
+see [item] - allows user to interact with different items, if applicable
+items
+    - commands
+    - notes
+    - wrench
+    - candlestick
+    - leadpipe
+    - revolver
+    - rope
+    - knife
+enter [room] - allows user to enter a new room of their choice
+rooms
+    - kitchen
+    - hall
+    - ballroom
+    - conservatory
+    - dining
+    - cellar
+    - billiards
+    - library
+    - lounge
+    - study
+talk [person] - speak to a certain person, if applicable
+people
+    - mustard
+    - scarlett
+    - white
+    - plum
+    - peacock
+    - green
